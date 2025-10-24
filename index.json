@@ -1,18 +1,6 @@
 {
   "sites": [
     {
-      "title": "量元工作室 笔记",
-      "url": "https://note.quanmeta.org",
-      "tags": [
-        "Chinese",
-        "note"
-      ],
-      "created_at": "2025-05-23",
-      "image": "",
-      "site_description": "",
-      "version": "1.6.3"
-    },
-    {
       "title": "Life Happens",
       "url": "https://blinko.gnezdovi.com",
       "tags": [
@@ -193,21 +181,9 @@
         "blog"
       ],
       "created_at": "2025-03-03",
-      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.2.1"
-    },
-    {
-      "title": "量元工作室 笔记",
-      "url": "https://note.quanmeta.org",
-      "tags": [
-        "Chinese",
-        "note"
-      ],
-      "created_at": "2025-05-23",
-      "image": "",
-      "site_description": "",
-      "version": "1.6.3"
     },
     {
       "title": "jonnyan404 の blinko",
