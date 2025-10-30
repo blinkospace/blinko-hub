@@ -14,18 +14,6 @@
       "version": "1.6.3"
     },
     {
-      "title": "Kay's Note",
-      "url": "https://note.likai.xin",
-      "tags": [
-        "english",
-        "blog"
-      ],
-      "created_at": "2024-02-12",
-      "image": "https://note.likai.xin/api/s3file/icon-512x512_1739945328406.png",
-      "site_description": "",
-      "version": "1.1.0"
-    },
-    {
       "title": "zller blinko",
       "url": "https://blinko.zller.cc",
       "tags": [
@@ -107,7 +95,7 @@
         "blog"
       ],
       "created_at": "2024-01-14",
-      "image": "",
+      "image": "https://blinko.zverify.cn/api/file/34F306E25C890648A6361B91F297C305_1761783353392.png",
       "site_description": "",
       "version": "1.6.5"
     },
@@ -172,18 +160,6 @@
       "image": "https://blinko.brycewg.xyz/api/s3file/1740532260669(1)_1740761471332.jpg",
       "site_description": "",
       "version": "1.6.3"
-    },
-    {
-      "title": "zhcnxyz",
-      "url": "https://blinko.zhcn.xyz",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-03-03",
-      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
-      "site_description": "",
-      "version": "1.2.1"
     },
     {
       "title": "jonnyan404 の blinko",
