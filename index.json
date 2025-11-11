@@ -52,18 +52,6 @@
       "version": "1.6.5"
     },
     {
-      "title": "heqing",
-      "url": "https://my-note.tocmcc.cn/",
-      "tags": [
-        "english",
-        "blog"
-      ],
-      "created_at": "2024-01-14",
-      "image": "",
-      "site_description": "",
-      "version": "1.6.2"
-    },
-    {
       "title": "RainbowRain",
       "url": "https://blinko.icerain.love",
       "tags": [
@@ -86,6 +74,18 @@
       "image": "https://l.llingfei.com/api/s3file/blinko/tx3_1756943554726.jpg",
       "site_description": "",
       "version": "1.6.3"
+    },
+    {
+      "title": "Pipu's BBHub",
+      "url": "https://blinko.pipulab.com",
+      "tags": [
+        "chinese",
+        "knowledge"
+      ],
+      "created_at": "2025-02-15",
+      "image": "https://blinko.pipulab.com/api/file/touxiang_Z1zdczI_(2)_1748416546698.webp",
+      "site_description": "",
+      "version": "1.6.5"
     },
     {
       "title": "cizai",
@@ -147,6 +147,18 @@
       "image": "https://seed.love4yzp.me/api/file/e92ddfa78d5df0518f55a9052c4ac000_1752293935449.png",
       "site_description": "",
       "version": "1.1.1"
+    },
+    {
+      "title": "happymove",
+      "url": "https://blinko.happymove.top/share",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2025-08-01",
+      "image": "",
+      "site_description": "",
+      "version": "1.4.3"
     },
     {
       "title": "Bryce's Knowledge Space",
