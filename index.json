@@ -1,6 +1,18 @@
 {
   "sites": [
     {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
+      "site_description": "",
+      "version": "1.6.5"
+    },
+    {
       "title": "Life Happens",
       "url": "https://blinko.gnezdovi.com",
       "tags": [
@@ -24,6 +36,20 @@
       "image": "https://blinko.zller.cc/api/s3file/006_1752399377339.jpg",
       "site_description": "",
       "version": "1.1.1"
+    },
+    {
+      "title": "Ivan's Mindspark Archive",
+      "url": "https://blinko.ivanli.cc",
+      "tags": [
+        "chinese",
+        "blog",
+        "development",
+        "hardware"
+      ],
+      "created_at": "2025-01-30",
+      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
+      "site_description": "",
+      "version": "1.6.5"
     },
     {
       "title": "heqing",
@@ -107,7 +133,7 @@
       "created_at": "2025-09-10",
       "image": "",
       "site_description": "",
-      "version": "1.6.3"
+      "version": "1.6.5"
     },
     {
       "title": "RainbowRain",
@@ -167,9 +193,21 @@
         "blog"
       ],
       "created_at": "2025-03-03",
-      "image": null,
-      "site_description": null,
+      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
+      "site_description": "",
       "version": "1.2.1"
+    },
+    {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
+      "site_description": "",
+      "version": "1.6.5"
     },
     {
       "title": "jonnyan404 の blinko",
