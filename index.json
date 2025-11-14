@@ -21,8 +21,8 @@
         "dance"
       ],
       "created_at": "2024-01-14",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "1.6.3"
     },
     {
@@ -146,6 +146,19 @@
       "image": "",
       "site_description": "",
       "version": "1.6.2"
+    },
+    {
+      "title": "优秀才能变酷",
+      "url": "https://seed.love4yzp.me",
+      "tags": [
+        "chinese",
+        "blog",
+        "journal"
+      ],
+      "created_at": "2025-07-12",
+      "image": "https://seed.love4yzp.me/api/file/e92ddfa78d5df0518f55a9052c4ac000_1752293935449.png",
+      "site_description": "",
+      "version": "1.1.1"
     },
     {
       "title": "happymove",
