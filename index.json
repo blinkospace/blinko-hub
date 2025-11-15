@@ -8,8 +8,8 @@
         "note"
       ],
       "created_at": "2025-05-23",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "1.6.5"
     },
     {
@@ -205,8 +205,8 @@
         "note"
       ],
       "created_at": "2025-05-23",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "1.6.5"
     },
     {
