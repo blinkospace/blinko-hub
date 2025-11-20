@@ -181,8 +181,8 @@
         "blog"
       ],
       "created_at": "2025-03-03",
-      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.2.1"
     },
     {
