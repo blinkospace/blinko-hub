@@ -38,6 +38,20 @@
       "version": "1.1.1"
     },
     {
+      "title": "Ivan's Mindspark Archive",
+      "url": "https://blinko.ivanli.cc",
+      "tags": [
+        "chinese",
+        "blog",
+        "development",
+        "hardware"
+      ],
+      "created_at": "2025-01-30",
+      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
+      "site_description": "",
+      "version": "1.6.6"
+    },
+    {
       "title": "heqing",
       "url": "https://my-note.tocmcc.cn/",
       "tags": [
@@ -48,6 +62,42 @@
       "image": "",
       "site_description": "",
       "version": "1.6.2"
+    },
+    {
+      "title": "RainbowRain",
+      "url": "https://blinko.icerain.love",
+      "tags": [
+        "Chinese",
+        "blog"
+      ],
+      "created_at": "2025-06-22",
+      "image": "",
+      "site_description": "",
+      "version": "1.6.6"
+    },
+    {
+      "title": "凌飞阁",
+      "url": "https://l.llingfei.com",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2024-01-14",
+      "image": "https://l.llingfei.com/api/s3file/blinko/tx3_1756943554726.jpg",
+      "site_description": "",
+      "version": "1.6.3"
+    },
+    {
+      "title": "Pipu's BBHub",
+      "url": "https://blinko.pipulab.com",
+      "tags": [
+        "chinese",
+        "knowledge"
+      ],
+      "created_at": "2025-02-15",
+      "image": "https://blinko.pipulab.com/api/file/touxiang_Z1zdczI_(2)_1748416546698.webp",
+      "site_description": "",
+      "version": "1.6.6"
     },
     {
       "title": "cizai",
@@ -84,6 +134,18 @@
       "image": "https://blinko.fangdutex.cn/api/file/root/blinko/blinko-data/IMG_9398_1757812854274.JPG",
       "site_description": "",
       "version": "1.6.5"
+    },
+    {
+      "title": "RainbowRain",
+      "url": "https://blinko.icerain.love",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2025-09-25",
+      "image": "",
+      "site_description": "",
+      "version": "1.6.6"
     },
     {
       "title": "zhcnxyz",
