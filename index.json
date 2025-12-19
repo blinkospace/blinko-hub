@@ -26,20 +26,6 @@
       "version": "1.1.1"
     },
     {
-      "title": "Ivan's Mindspark Archive",
-      "url": "https://blinko.ivanli.cc",
-      "tags": [
-        "chinese",
-        "blog",
-        "development",
-        "hardware"
-      ],
-      "created_at": "2025-01-30",
-      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
-      "site_description": "",
-      "version": "1.7.1"
-    },
-    {
       "title": "RainbowRain",
       "url": "https://blinko.icerain.love",
       "tags": [
@@ -99,6 +85,18 @@
       "image": "https://blinko.zverify.cn/api/file/34F306E25C890648A6361B91F297C305_1761783353392.png",
       "site_description": "",
       "version": "1.6.5"
+    },
+    {
+      "title": "王基权",
+      "url": "http://www.fibnci.top:51111/share",
+      "tags": [
+        "english",
+        "blog"
+      ],
+      "created_at": "2025-04-23",
+      "image": "http://www.fibnci.top:51111/api/file/vol1/1000/docker/blinko/data/萨摩耶犬_1745379611420.png",
+      "site_description": "",
+      "version": "1.7.0"
     },
     {
       "title": "洋洋罗小小博客",
