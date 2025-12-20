@@ -40,6 +40,18 @@
       "version": "1.7.1"
     },
     {
+      "title": "RainbowRain",
+      "url": "https://blinko.icerain.love",
+      "tags": [
+        "Chinese",
+        "blog"
+      ],
+      "created_at": "2025-06-22",
+      "image": "",
+      "site_description": "",
+      "version": "1.7.0"
+    },
+    {
       "title": "凌飞阁",
       "url": "https://l.llingfei.com",
       "tags": [
@@ -121,6 +133,18 @@
       ],
       "created_at": "2025-09-10",
       "image": "https://note.520217.xyz/api/s3file/2025/46547_2_1765680667204.jpg",
+      "site_description": "",
+      "version": "1.7.0"
+    },
+    {
+      "title": "RainbowRain",
+      "url": "https://blinko.icerain.love",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2025-09-25",
+      "image": "",
       "site_description": "",
       "version": "1.7.0"
     },
