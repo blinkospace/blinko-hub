@@ -162,18 +162,6 @@
       "version": "1.8.0"
     },
     {
-      "title": "RainbowRain",
-      "url": "https://blinko.icerain.love",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-09-25",
-      "image": "",
-      "site_description": "",
-      "version": "1.7.0"
-    },
-    {
       "title": "优秀才能变酷",
       "url": "https://seed.love4yzp.me",
       "tags": [
@@ -187,18 +175,6 @@
       "version": "1.7.0"
     },
     {
-      "title": "happymove",
-      "url": "https://blinko.happymove.top/share",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-08-01",
-      "image": "",
-      "site_description": "",
-      "version": "1.4.3"
-    },
-    {
       "title": "zhcnxyz",
       "url": "https://blinko.zhcn.xyz",
       "tags": [
@@ -206,8 +182,8 @@
         "blog"
       ],
       "created_at": "2025-03-03",
-      "image": null,
-      "site_description": null,
+      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
+      "site_description": "",
       "version": "1.2.1"
     },
     {
