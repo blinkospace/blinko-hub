@@ -242,9 +242,9 @@
         "blog"
       ],
       "created_at": "2025-11-12",
-      "image": "",
-      "site_description": "",
-      "version": "1.7.1"
+      "image": null,
+      "site_description": null,
+      "version": "1.8.0"
     }
   ]
 }
