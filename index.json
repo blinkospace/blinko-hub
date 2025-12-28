@@ -133,8 +133,8 @@
         "blog"
       ],
       "created_at": "2025-04-23",
-      "image": "http://www.fibnci.top:51111/api/file/vol1/1000/docker/blinko/data/萨摩耶犬_1745379611420.png",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.7.0"
     },
     {
@@ -197,18 +197,6 @@
       "image": "",
       "site_description": "",
       "version": "1.8.0"
-    },
-    {
-      "title": "zhcnxyz",
-      "url": "https://blinko.zhcn.xyz",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-03-03",
-      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
-      "site_description": "",
-      "version": "1.2.1"
     },
     {
       "title": "jonnyan404 の blinko",
