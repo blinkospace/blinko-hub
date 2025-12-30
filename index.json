@@ -147,7 +147,7 @@
       "created_at": "2025-09-01",
       "image": "https://blinko.fangdutex.cn/api/file/root/blinko/blinko-data/IMG_9398_1757812854274.JPG",
       "site_description": "",
-      "version": "1.6.5"
+      "version": "1.8.0"
     },
     {
       "title": "Can Can Need Space",
@@ -197,18 +197,6 @@
       "image": "",
       "site_description": "",
       "version": "1.8.0"
-    },
-    {
-      "title": "zhcnxyz",
-      "url": "https://blinko.zhcn.xyz",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-03-03",
-      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
-      "site_description": "",
-      "version": "1.2.1"
     },
     {
       "title": "jonnyan404 の blinko",
