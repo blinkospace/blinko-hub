@@ -35,8 +35,8 @@
         "hardware"
       ],
       "created_at": "2025-01-30",
-      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.0"
     },
     {
@@ -150,18 +150,6 @@
       "version": "1.8.0"
     },
     {
-      "title": "Can Can Need Space",
-      "url": "https://note.520217.xyz",
-      "tags": [
-        "chinese",
-        "rubbish"
-      ],
-      "created_at": "2025-09-10",
-      "image": "https://note.520217.xyz/api/s3file/2025/46547_2_1765680667204.jpg",
-      "site_description": "",
-      "version": "1.8.0"
-    },
-    {
       "title": "RainbowRain",
       "url": "https://blinko.icerain.love",
       "tags": [
@@ -197,18 +185,6 @@
       "image": "",
       "site_description": "",
       "version": "1.8.0"
-    },
-    {
-      "title": "zhcnxyz",
-      "url": "https://blinko.zhcn.xyz",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-03-03",
-      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
-      "site_description": "",
-      "version": "1.2.1"
     },
     {
       "title": "jonnyan404 の blinko",
@@ -255,6 +231,18 @@
       ],
       "created_at": "2025-11-05",
       "image": "https://bk.catke.com/api/s3file/png-transparent-black-cat-illustration-cat-icon-cat-with-sunglasses-household-cat-like-mammal-black_1762351052953.png",
+      "site_description": "",
+      "version": "1.8.0"
+    },
+    {
+      "title": "KeepT",
+      "url": "https://keep.tossp.com/",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2025-11-12",
+      "image": "",
       "site_description": "",
       "version": "1.8.0"
     }
