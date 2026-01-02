@@ -35,8 +35,8 @@
         "hardware"
       ],
       "created_at": "2025-01-30",
-      "image": null,
-      "site_description": null,
+      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
+      "site_description": "",
       "version": "1.8.1"
     },
     {
@@ -197,18 +197,6 @@
       "image": "",
       "site_description": "",
       "version": "1.8.0"
-    },
-    {
-      "title": "zhcnxyz",
-      "url": "https://blinko.zhcn.xyz",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-03-03",
-      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
-      "site_description": "",
-      "version": "1.2.1"
     },
     {
       "title": "jonnyan404 の blinko",
