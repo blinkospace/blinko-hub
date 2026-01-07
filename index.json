@@ -26,6 +26,18 @@
       "version": "1.6.3"
     },
     {
+      "title": "Kay's Note",
+      "url": "https://note.likai.xin",
+      "tags": [
+        "english",
+        "blog"
+      ],
+      "created_at": "2024-02-12",
+      "image": "",
+      "site_description": "",
+      "version": "1.8.2"
+    },
+    {
       "title": "zller blinko",
       "url": "https://blinko.zller.cc",
       "tags": [
@@ -182,19 +194,6 @@
       ],
       "created_at": "2025-09-25",
       "image": "",
-      "site_description": "",
-      "version": "1.7.0"
-    },
-    {
-      "title": "优秀才能变酷",
-      "url": "https://seed.love4yzp.me",
-      "tags": [
-        "chinese",
-        "blog",
-        "journal"
-      ],
-      "created_at": "2025-07-12",
-      "image": "https://seed.love4yzp.me/api/file/e92ddfa78d5df0518f55a9052c4ac000_1752293935449.png",
       "site_description": "",
       "version": "1.7.0"
     },
