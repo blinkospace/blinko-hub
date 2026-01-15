@@ -89,18 +89,6 @@
       "version": "1.8.3"
     },
     {
-      "title": "RainbowRain",
-      "url": "https://blinko.icerain.love",
-      "tags": [
-        "Chinese",
-        "blog"
-      ],
-      "created_at": "2025-06-22",
-      "image": "",
-      "site_description": "",
-      "version": "1.8.3"
-    },
-    {
       "title": "凌飞阁",
       "url": "https://l.llingfei.com",
       "tags": [
@@ -169,8 +157,8 @@
         "blog"
       ],
       "created_at": "2025-09-25",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.3"
     },
     {
