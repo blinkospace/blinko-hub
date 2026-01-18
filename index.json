@@ -50,20 +50,6 @@
       "version": "1.1.1"
     },
     {
-      "title": "Ivan's Mindspark Archive",
-      "url": "https://blinko.ivanli.cc",
-      "tags": [
-        "chinese",
-        "blog",
-        "development",
-        "hardware"
-      ],
-      "created_at": "2025-01-30",
-      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
-      "site_description": "",
-      "version": "1.8.3"
-    },
-    {
       "title": "Lockey",
       "url": "https://blinko.asynspetfood.top/",
       "tags": [
@@ -242,8 +228,8 @@
         "blog"
       ],
       "created_at": "2025-11-12",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "1.8.3"
     }
   ]
