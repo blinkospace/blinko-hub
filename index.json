@@ -33,8 +33,8 @@
         "blog"
       ],
       "created_at": "2024-02-12",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.2"
     },
     {
@@ -48,20 +48,6 @@
       "image": "https://blinko.zller.cc/api/s3file/006_1752399377339.jpg",
       "site_description": "",
       "version": "1.1.1"
-    },
-    {
-      "title": "Ivan's Mindspark Archive",
-      "url": "https://blinko.ivanli.cc",
-      "tags": [
-        "chinese",
-        "blog",
-        "development",
-        "hardware"
-      ],
-      "created_at": "2025-01-30",
-      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
-      "site_description": "",
-      "version": "1.8.3"
     },
     {
       "title": "Lockey",
