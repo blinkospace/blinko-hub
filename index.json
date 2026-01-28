@@ -1,6 +1,18 @@
 {
   "sites": [
     {
+      "title": "Inver",
+      "url": "https://blinko.zeabur.app",
+      "tags": [
+        "Chinese",
+        "blog"
+      ],
+      "created_at": "2025-11-22",
+      "image": "",
+      "site_description": "",
+      "version": "1.8.4"
+    },
+    {
       "title": "Life Happens",
       "url": "https://blinko.gnezdovi.com",
       "tags": [
@@ -208,7 +220,7 @@
       "created_at": "2025-11-12",
       "image": "",
       "site_description": "",
-      "version": "1.8.3"
+      "version": "1.8.4"
     }
   ]
 }
