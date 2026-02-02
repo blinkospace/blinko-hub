@@ -47,8 +47,8 @@
         "hardware"
       ],
       "created_at": "2025-01-30",
-      "image": null,
-      "site_description": null,
+      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
+      "site_description": "",
       "version": "1.8.3"
     },
     {
@@ -77,18 +77,6 @@
       "version": "1.8.3"
     },
     {
-      "title": "RainbowRain",
-      "url": "https://blinko.icerain.love",
-      "tags": [
-        "Chinese",
-        "blog"
-      ],
-      "created_at": "2025-06-22",
-      "image": "",
-      "site_description": "",
-      "version": "1.8.4"
-    },
-    {
       "title": "凌飞阁",
       "url": "https://l.llingfei.com",
       "tags": [
@@ -114,6 +102,18 @@
       "version": "1.7.0"
     },
     {
+      "title": "王基权",
+      "url": "http://www.fibnci.top:51111/share",
+      "tags": [
+        "english",
+        "blog"
+      ],
+      "created_at": "2025-04-23",
+      "image": "http://www.fibnci.top:51111/api/file/vol1/1000/docker/blinko/data/萨摩耶犬_1745379611420.png",
+      "site_description": "",
+      "version": "1.7.0"
+    },
+    {
       "title": "洋洋罗小小博客",
       "url": "https://blinko.fangdutex.cn/",
       "tags": [
@@ -126,30 +126,6 @@
       "version": "1.8.4"
     },
     {
-      "title": "Can Can Need Space",
-      "url": "https://note.520217.xyz",
-      "tags": [
-        "chinese",
-        "rubbish"
-      ],
-      "created_at": "2025-09-10",
-      "image": "https://note.520217.xyz/api/s3file/2025/46547_2_1765680667204.jpg",
-      "site_description": "",
-      "version": "1.8.4"
-    },
-    {
-      "title": "RainbowRain",
-      "url": "https://blinko.icerain.love",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-09-25",
-      "image": "",
-      "site_description": "",
-      "version": "1.8.4"
-    },
-    {
       "title": "优秀才能变酷",
       "url": "https://seed.love4yzp.me",
       "tags": [
@@ -158,8 +134,8 @@
         "journal"
       ],
       "created_at": "2025-07-12",
-      "image": "https://seed.love4yzp.me/api/file/e92ddfa78d5df0518f55a9052c4ac000_1752293935449.png",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.7.0"
     },
     {
@@ -170,8 +146,8 @@
         "blog"
       ],
       "created_at": "2025-08-01",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "1.8.0"
     },
     {
