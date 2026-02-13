@@ -27,16 +27,16 @@
       "version": "1.8.5"
     },
     {
-      "title": "KeepT",
-      "url": "https://keep.tossp.com/",
+      "title": "洋洋罗小小博客",
+      "url": "https://blinko.fangdutex.cn/",
       "tags": [
-        "chinese",
+        "Chinese",
         "blog"
       ],
-      "created_at": "2025-11-12",
-      "image": "",
+      "created_at": "2025-09-01",
+      "image": "https://blinko.fangdutex.cn/api/file/root/blinko/blinko-data/IMG_9398_1757812854274.JPG",
       "site_description": "",
-      "version": "1.8.4"
+      "version": "1.8.5"
     },
     {
       "title": "Lockey",
