@@ -1,18 +1,6 @@
 {
   "sites": [
     {
-      "title": "Inver",
-      "url": "https://blinko.zeabur.app",
-      "tags": [
-        "Chinese",
-        "blog"
-      ],
-      "created_at": "2025-11-22",
-      "image": "",
-      "site_description": "",
-      "version": "1.8.5"
-    },
-    {
       "title": "zller blinko",
       "url": "https://blinko.zller.cc",
       "tags": [
