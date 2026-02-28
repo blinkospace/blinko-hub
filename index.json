@@ -39,18 +39,6 @@
       "version": "1.8.5"
     },
     {
-      "title": "KeepT",
-      "url": "https://keep.tossp.com/",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-11-12",
-      "image": "",
-      "site_description": "",
-      "version": "1.8.5"
-    },
-    {
       "title": "Lockey",
       "url": "https://blinko.asynspetfood.top/",
       "tags": [
@@ -85,6 +73,19 @@
       "image": "",
       "site_description": "",
       "version": "1.8.4"
+    },
+    {
+      "title": "优秀才能变酷",
+      "url": "https://seed.love4yzp.me",
+      "tags": [
+        "chinese",
+        "blog",
+        "journal"
+      ],
+      "created_at": "2025-07-12",
+      "image": "https://seed.love4yzp.me/api/file/e92ddfa78d5df0518f55a9052c4ac000_1752293935449.png",
+      "site_description": "",
+      "version": "1.7.0"
     },
     {
       "title": "Ivan's Mindspark Archive",
