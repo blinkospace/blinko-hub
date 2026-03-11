@@ -9,8 +9,8 @@
         "knowledge"
       ],
       "created_at": "2024-01-15",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.7.0"
     },
     {
@@ -46,8 +46,8 @@
         "blog"
       ],
       "created_at": "2025-11-12",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "1.8.5"
     },
     {
