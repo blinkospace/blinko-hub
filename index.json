@@ -46,8 +46,8 @@
         "blog"
       ],
       "created_at": "2025-11-12",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "1.8.5"
     },
     {
@@ -82,8 +82,8 @@
         "blog"
       ],
       "created_at": "2025-09-25",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "1.8.5"
     },
     {
