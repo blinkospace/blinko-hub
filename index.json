@@ -121,8 +121,8 @@
         "blog"
       ],
       "created_at": "2025-08-01",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.0"
     },
     {
