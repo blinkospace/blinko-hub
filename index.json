@@ -75,18 +75,6 @@
       "version": "1.8.6"
     },
     {
-      "title": "RainbowRain",
-      "url": "https://blinko.icerain.love",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-09-25",
-      "image": "",
-      "site_description": "",
-      "version": "1.8.5"
-    },
-    {
       "title": "优秀才能变酷",
       "url": "https://seed.love4yzp.me",
       "tags": [
@@ -109,8 +97,8 @@
         "hardware"
       ],
       "created_at": "2025-01-30",
-      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.5"
     },
     {
@@ -145,8 +133,8 @@
         "blog"
       ],
       "created_at": "2025-08-01",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.0"
     },
     {
