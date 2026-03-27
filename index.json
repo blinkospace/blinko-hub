@@ -71,8 +71,8 @@
         "hardware"
       ],
       "created_at": "2025-01-30",
-      "image": null,
-      "site_description": null,
+      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
+      "site_description": "",
       "version": "1.8.5"
     },
     {
@@ -119,8 +119,8 @@
         "blog"
       ],
       "created_at": "2025-11-12",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.6"
     },
     {
