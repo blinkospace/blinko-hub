@@ -20,8 +20,8 @@
         "blog"
       ],
       "created_at": "2025-08-01",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.0"
     },
     {
@@ -107,19 +107,7 @@
         "blog"
       ],
       "created_at": "2025-11-12",
-      "image": null,
-      "site_description": null,
-      "version": "1.8.6"
-    },
-    {
-      "title": "Can Can Need Space",
-      "url": "https://note.520217.xyz",
-      "tags": [
-        "chinese",
-        "rubbish"
-      ],
-      "created_at": "2025-09-10",
-      "image": "https://note.520217.xyz/api/s3file/2025/46547_2_1765680667204.jpg",
+      "image": "",
       "site_description": "",
       "version": "1.8.6"
     },
