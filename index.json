@@ -13,18 +13,6 @@
       "version": "1.8.2"
     },
     {
-      "title": "KeepT",
-      "url": "https://keep.tossp.com/",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-11-12",
-      "image": "",
-      "site_description": "",
-      "version": "1.8.6"
-    },
-    {
       "title": "Myrrhwhis' BBHub",
       "url": "https://blinko.l0u0l.com",
       "tags": [
@@ -147,7 +135,7 @@
       "created_at": "2025-10-01",
       "image": "https://capable-toucanet.pikapod.net/api/file/download_1761744251118.gif",
       "site_description": "",
-      "version": "1.8.6"
+      "version": "1.8.7"
     },
     {
       "title": "Lockey",
