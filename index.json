@@ -20,8 +20,8 @@
         "blog"
       ],
       "created_at": "2025-11-12",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "1.8.7"
     },
     {
@@ -71,8 +71,8 @@
         "hardware"
       ],
       "created_at": "2025-01-30",
-      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.7"
     },
     {
@@ -95,8 +95,8 @@
         "blog"
       ],
       "created_at": "2025-08-01",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.0"
     },
     {
