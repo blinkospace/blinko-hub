@@ -20,8 +20,8 @@
         "blog"
       ],
       "created_at": "2025-11-12",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.7"
     },
     {
@@ -74,18 +74,6 @@
       "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
       "site_description": "",
       "version": "1.8.7"
-    },
-    {
-      "title": "happymove",
-      "url": "https://blinko.happymove.top/share",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-08-01",
-      "image": "",
-      "site_description": "",
-      "version": "1.8.0"
     },
     {
       "title": "jonnyan404 の blinko",
