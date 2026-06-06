@@ -46,8 +46,8 @@
         "blog"
       ],
       "created_at": "2025-10-01",
-      "image": "https://capable-toucanet.pikapod.net/api/file/download_1761744251118.gif",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.7"
     },
     {
