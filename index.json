@@ -26,6 +26,18 @@
       "version": "1.8.8"
     },
     {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
+      "site_description": "",
+      "version": "1.8.8"
+    },
+    {
       "title": "Ivan's Mindspark Archive",
       "url": "https://blinko.ivanli.cc",
       "tags": [
@@ -36,6 +48,18 @@
       ],
       "created_at": "2025-01-30",
       "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
+      "site_description": "",
+      "version": "1.8.8"
+    },
+    {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
       "site_description": "",
       "version": "1.8.8"
     },
