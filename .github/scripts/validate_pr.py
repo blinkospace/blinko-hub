@@ -85,11 +85,12 @@ def main():
         cmd = f'gh pr comment {os.environ["PR_NUMBER"]} --body "{comment}"'
         run_cmd(cmd)
     
-    # Set output variable for GitHub Actions
-    print(f"::set-output name=is_valid::{str(all_valid).lower()}")
+    # Set output variable for GitHub Actions using GITHUB_OUTPUT
+    with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+        f.write(f"is_valid={str(all_valid).lower()}\n")
     
     if not all_valid:
         sys.exit(1)
 
 if __name__ == '__main__':
-    main() 
+    main()
