@@ -27,3 +27,12 @@ created_at: "2024-01-14"
 1. Fork this repository
 2. Create a new yml file in the `sites` directory
 3. Submit a Pull Request
+
+## Batch Follow Script
+
+Want to follow all Hub sites at once into your Blinko recommendation feed?
+
+1. Open and log into your Blinko site in a browser.
+2. Press `F12` to open Developer Tools and switch to the **Console** tab.
+3. Copy and run the code from [scripts/batch-follow.js](scripts/batch-follow.js).
+
