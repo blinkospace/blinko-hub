@@ -111,16 +111,16 @@
       "version": "1.8.8"
     },
     {
-      "title": "量元工作室 笔记",
-      "url": "https://note.quanmeta.org",
+      "title": "happymove",
+      "url": "https://blinko.happymove.top/share",
       "tags": [
-        "Chinese",
-        "note"
+        "chinese",
+        "blog"
       ],
-      "created_at": "2025-05-23",
+      "created_at": "2025-08-01",
       "image": "",
       "site_description": "",
-      "version": "1.8.8"
+      "version": "1.8.0"
     },
     {
       "title": "Asyns",
