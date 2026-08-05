@@ -13,16 +13,16 @@
       "version": "1.8.4"
     },
     {
-      "title": "量元工作室 笔记",
-      "url": "https://note.quanmeta.org",
+      "title": "凌飞阁",
+      "url": "https://l.llingfei.com",
       "tags": [
-        "Chinese",
-        "note"
+        "chinese",
+        "blog"
       ],
-      "created_at": "2025-05-23",
-      "image": "",
+      "created_at": "2024-01-14",
+      "image": "https://l.llingfei.com/api/s3file/blinko/tx3_1756943554726.jpg",
       "site_description": "",
-      "version": "1.8.8"
+      "version": "1.8.6"
     },
     {
       "title": "优秀才能变酷",
@@ -74,16 +74,40 @@
       "version": "1.8.6"
     },
     {
-      "title": "量元工作室 笔记",
-      "url": "https://note.quanmeta.org",
+      "title": "KeepT",
+      "url": "https://keep.tossp.com/",
       "tags": [
-        "Chinese",
-        "note"
+        "chinese",
+        "blog"
       ],
-      "created_at": "2025-05-23",
+      "created_at": "2025-11-12",
       "image": "",
       "site_description": "",
       "version": "1.8.8"
+    },
+    {
+      "title": "happymove",
+      "url": "https://blinko.happymove.top/share",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2025-08-01",
+      "image": "",
+      "site_description": "",
+      "version": "1.8.0"
+    },
+    {
+      "title": "Asyns",
+      "url": "https://blinko.asynspetfood.top/",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2025-10-01",
+      "image": "",
+      "site_description": "",
+      "version": "1.6.6"
     },
     {
       "title": "v3rlly",
