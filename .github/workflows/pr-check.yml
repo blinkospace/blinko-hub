@@ -1,42 +1,76 @@
 name: PR Check
 
 on:
-  pull_request:
-    types: [opened, synchronize, reopened]
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+    branches: [main]
     paths:
       - 'sites/**'
+
+concurrency:
+  group: site-submission-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
 
 jobs:
   validate-pr:
     runs-on: ubuntu-latest
     permissions:
-      pull-requests: write
-      contents: write
-    
+      pull-requests: read
+      contents: read
+    outputs:
+      is_valid: ${{ steps.validation.outputs.is_valid }}
+
     steps:
-      - uses: actions/checkout@v3
-      
+      # github.sha is the trusted base-branch commit for pull_request_target.
+      # Never check out or execute the contributor's code in this workflow.
+      - name: Check out trusted validator
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          repository: ${{ github.repository }}
+          ref: ${{ github.sha }}
+          persist-credentials: false
+
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: '3.x'
-          
+
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pyyaml
-          
+        run: python -m pip install pyyaml==6.0.3
+
+      - name: Test trusted validator
+        run: python -m unittest discover -s .github/scripts -p 'test_*.py'
+
       - name: Validate PR
+        id: validation
         env:
           GH_TOKEN: ${{ github.token }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
-        run: |
-          python .github/scripts/validate_pr.py
-        id: validation
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PR_HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+        run: python .github/scripts/validate_pr.py
 
-      - name: Auto Merge if Valid
-        if: steps.validation.outputs.is_valid == 'true'
+  merge-pr:
+    needs: validate-pr
+    if: needs.validate-pr.outputs.is_valid == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+    steps:
+      # This job runs no checkout, dependencies, or contributor-supplied code.
+      - name: Merge validated submission
         env:
           GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: |
-          gh pr merge --auto --merge "${{ github.event.pull_request.number }}" 
+          current=$(gh api "repos/$GITHUB_REPOSITORY/pulls/$PR_NUMBER" \
+            --jq '[.state, .draft, .base.ref, .head.sha] | @tsv')
+          printf -v expected 'open\tfalse\tmain\t%s' "$PR_HEAD_SHA"
+          if [[ "$current" != "$expected" ]]; then
+            echo "PR changed after validation; refusing to merge."
+            exit 1
+          fi
+          gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --merge \
+            --match-head-commit "$PR_HEAD_SHA"
