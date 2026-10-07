@@ -1,0 +1,1 @@
+Temporary integration test file. This PR must not be automatically merged because it includes a file outside sites/*.yml.
