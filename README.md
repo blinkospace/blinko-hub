@@ -27,3 +27,19 @@ created_at: "2024-01-14"
 1. Fork this repository
 2. Create a new yml file in the `sites` directory
 3. Submit a Pull Request
+
+PRs targeting `main` that only add or modify `sites/*.yml` files are automatically
+merged after validation. Each entry must include a non-placeholder title, an HTTP
+or HTTPS URL, a nonempty list of text tags, and a valid creation date. Automatic
+merging accepts at most 50 files, 1 MiB per file, and 5 MiB in total. Draft PRs,
+deletions, renames, and PRs containing other changes require manual review.
+
+The workflow runs the validator from the trusted base branch and reads submitted
+YAML through GitHub's API at the PR's exact commit. It does not execute code from
+contributors' branches, and it only merges the commit that passed validation.
+
+To run the validator tests locally, install `pyyaml==6.0.3`, then run:
+
+```bash
+python -m unittest discover -s .github/scripts -p 'test_*.py'
+```
