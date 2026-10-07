@@ -1,3 +1,4 @@
+# Workflow smoke test: verify authenticated auto-merge for fork pull requests.
 title: "zzh4141 note"
 url: "https://note.melii.xyz"
 tags: 
