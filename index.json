@@ -72,18 +72,6 @@
       "image": "",
       "site_description": "",
       "version": "1.8.9"
-    },
-    {
-      "title": "Inver",
-      "url": "https://blinko.inverstar.olares.cn",
-      "tags": [
-        "Chinese",
-        "blog"
-      ],
-      "created_at": "2025-11-22",
-      "image": "",
-      "site_description": "",
-      "version": "1.8.8"
     }
   ]
 }
