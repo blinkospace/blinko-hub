@@ -62,16 +62,16 @@
       "version": "1.8.5"
     },
     {
-      "title": "Inver",
-      "url": "https://blinko.inverstar.olares.cn",
+      "title": "KeepT",
+      "url": "https://keep.tossp.com/",
       "tags": [
-        "Chinese",
+        "chinese",
         "blog"
       ],
-      "created_at": "2025-11-22",
+      "created_at": "2025-11-12",
       "image": "",
       "site_description": "",
-      "version": "1.8.8"
+      "version": "1.8.9"
     }
   ]
 }
